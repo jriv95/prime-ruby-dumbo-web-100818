@@ -1,3 +1,3 @@
 def prime?(int)
-   int % 2 != 0
+   int % 2 = 0
 end
