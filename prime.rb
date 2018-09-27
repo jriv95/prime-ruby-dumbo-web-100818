@@ -1,5 +1,5 @@
-array = [1...100]
+numbers_array = [1...100]
 
 def prime?(int)
-  for 
+  for
 end
