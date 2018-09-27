@@ -1,14 +1,3 @@
 def prime?(int)
-  if int % 2 == 0
-     true
-  elsif int % 3 == 0
-    puts true
-  elsif int % 5 == 0
-    puts true
-  elsif int % 7 == 0
-    puts true
-  elsif int % 9 == 0
-    puts true
-  else puts false
-  end
+   int % 2 !== 0
 end
