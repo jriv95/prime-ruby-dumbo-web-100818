@@ -1,3 +1,5 @@
+array = [1...100]
+
 def prime?(int)
-  return int
+  for 
 end
